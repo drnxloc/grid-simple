@@ -1,0 +1,24 @@
+{
+  "name": "grid-simple",
+  "version": "1.0.0",
+  "description": "Grid CSS",
+  "main": "grid-simple.css",
+  "style": "grid-simple.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drnxloc/grid-simple.git"
+  },
+  "keywords": [
+    "grid",
+    "grid-simple"
+  ],
+  "author": "Drnxloc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drnxloc/grid-simple/issues"
+  },
+  "homepage": "https://github.com/drnxloc/grid-simple#readme"
+}
